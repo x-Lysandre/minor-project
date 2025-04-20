@@ -47,7 +47,18 @@ Captured image is processed and passed to an OCR/digit recognition model.
 The equation is parsed and solved using Python.
 
 ## 📸 Demo
-📽️ [Watch the demo](demo-video.mp4)
+📽️ [Watch the demo Video here](demo-video.mp4)  
+
+## Result images
+1. 
+![image](https://github.com/user-attachments/assets/b1e6add6-61b7-4529-ba49-cdb8f1e9574e)    
+2.  
+![image](https://github.com/user-attachments/assets/e75ae652-7415-4f2d-ac1b-454b33554ade)  
+3.  
+![image](https://github.com/user-attachments/assets/6a61e18e-400f-424e-b8b3-37c236b5eb19)  
+
+
+
 
 
 ## 📁 Folder Structure
@@ -77,7 +88,7 @@ bash
 Copy
 Edit
 python air_canvas.py
-🔮 Future Improvements
+## 🔮 Future Improvements
 Add character-level OCR for better equation parsing
 
 Voice feedback for evaluated equations
