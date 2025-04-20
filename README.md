@@ -47,7 +47,7 @@ Captured image is processed and passed to an OCR/digit recognition model.
 The equation is parsed and solved using Python.
 
 ## 📸 Demo
-📽️ [Watch the demo]('demo video.mp4')
+📽️ [Watch the demo](demo-video.mp4)
 
 
 ## 📁 Folder Structure
